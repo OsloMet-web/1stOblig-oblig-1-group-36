@@ -1,3 +1,17 @@
 p, h2 {
     font-family: serif;
 }
+.knapp{
+    border: 2px solid black;
+    text-align: center;
+    padding: 4px 8px;
+    text-decoration: none;
+    background-color: lightgray;
+    color: black;
+    font-weight: 800;
+}
+.knapp:hover{
+    background-color: lightslategray;
+    font-size: medium;
+    transition: 0.5s;
+}
